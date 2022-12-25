@@ -4,7 +4,7 @@
 
 ## Docs
 
-- [VM Setup]()
+- [VM Setup](setup-vms.md)
 
 - [Network Analysis using Wireshark]()
 
