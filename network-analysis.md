@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/o7mCGi4.png" alt="Wireshark Logo"/>
+</p>
+
 # 🦈 Network Analysis using WireShark
 After setting up 2 VMs, I begin filtering traffic using WireShark to then look at and analyse.
 
