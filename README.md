@@ -10,6 +10,6 @@
 
 ## Youtube Video
 
-- [VM Setup]()
+- [Virtual Machine Setup](https://youtu.be/0YpwRYq-RAo)
 
 - [Network Analysis]()
