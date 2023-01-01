@@ -7,7 +7,7 @@
 
 ## Video Demonstration
 
-- ### [YouTube: How To Setup Virtual Machines in Azure](https://www.youtube.com)
+- ### [YouTube: How To Setup Virtual Machines in Azure](https://youtu.be/0YpwRYq-RAo)
 
 ## Environments and Technologies Used
 
